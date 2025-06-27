@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "titlePrefix": "[Agent] ",
+  "notifyOnResponseComplete": true,
+  "notifyOnApprovalRequired": true,
+  "tools": {
+    "Notify": true
+  }
+}
